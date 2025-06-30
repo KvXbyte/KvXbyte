@@ -1,16 +1,29 @@
-## Hi there 👋
+Guardian Between Signal and Noise 👋
 
-<!--
-**KvXbyte/KvXbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Nickalos Early — you can call me KvXbyte.
 
-Here are some ideas to get you started:
+I’m a cybersecurity professional with a Security+ certification, currently building my skills through labs, Splunk training, and real-world simulations. I’m passionate about defending systems, analyzing signals, and turning chaos into clarity — one byte at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+“No shortcuts. No fluff. Just commitment.”
+
+🔒 What you’ll find here:
+
+Cybersecurity labs and notes
+
+Splunk dashboards and exercises
+
+Tools and resources I’m building or studying
+
+📚 On the horizon:
+
+MITRE ATT&CK explorations
+
+Splunk projects
+
+SOC analyst workflows
+
+🎯 Always Learning:
+I’m committed to continuous improvement and sharing knowledge as I grow.
+
+🤝 Let’s Connect:
+LinkedIn
