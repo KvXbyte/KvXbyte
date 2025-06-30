@@ -9,21 +9,16 @@ I’m a cybersecurity professional with a Security+ certification, currently bui
 🔒 What you’ll find here:
 
 Cybersecurity labs and notes
-
 Splunk dashboards and exercises
-
 Tools and resources I’m building or studying
 
 📚 On the horizon:
 
 MITRE ATT&CK explorations
-
 Splunk projects
-
 SOC analyst workflows
 
 🎯 Always Learning:
 I’m committed to continuous improvement and sharing knowledge as I grow.
 
-🤝 Let’s Connect:
-LinkedIn
+🤝 Let’s Connect: [LinkedIn](www.linkedin.com/in/kvxbyte)
