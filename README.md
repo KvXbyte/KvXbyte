@@ -1,6 +1,6 @@
 # 🛡️ Guardian Between Signal and Noise 👋
 
-[![Security+](https://images.credly.com/size/110x110/images/6848b8f0-857c-4c37-8f6f-916b558b0d41/comptia-security-ce-certification.png)](https://www.credly.com/badges/9ac972b8-4d75-41ec-b411-86fb826c3dc4/public_url)
+[![Security+](https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](https://www.credly.com/badges/9ac972b8-4d75-41ec-b411-86fb826c3dc4/public_url)
 
 Hi, I’m **Nickalos Early** — but here you can call me **KvXbyte**.
 
