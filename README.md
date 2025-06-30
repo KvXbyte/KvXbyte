@@ -1,6 +1,11 @@
 # 🛡️ Guardian Between Signal and Noise 👋
 
-[![Security+](https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](https://www.credly.com/badges/9ac972b8-4d75-41ec-b411-86fb826c3dc4/public_url)
+<a href="https://www.credly.com/badges/9ac972b8-4d75-41ec-b411-86fb826c3dc4/public_url">
+  <img src="https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="100" />
+</a>
+<a href="https://www.credly.com">
+  <img src="https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="100" />
+</a>
 
 Hi, I’m **Nickalos Early** — but here you can call me **KvXbyte**.
 
