@@ -1,24 +1,29 @@
-Guardian Between Signal and Noise 👋
+# 🛡️ Guardian Between Signal and Noise 👋
 
-I’m Nickalos Early — you can call me KvXbyte.
+![Security+](https://www.credly.com/badges/9ac972b8-4d75-41ec-b411-86fb826c3dc4/public_url))
 
-I’m a cybersecurity professional with a Security+ certification, currently building my skills through labs, Splunk training, and real-world simulations. I’m passionate about defending systems, analyzing signals, and turning chaos into clarity — one byte at a time.
+Hi, I’m **Nickalos Early** — but here you can call me **KvXbyte**.
 
-“No shortcuts. No fluff. Just commitment.”
+I’m a cybersecurity professional with a **Security+** certification, currently leveling up through labs, Splunk training, and real-world simulations. I’m passionate about defending systems, analyzing signals, and turning chaos into clarity — one byte at a time.
 
-🔒 What you’ll find here:
+> “No shortcuts. No fluff. Just commitment.”
 
-Cybersecurity labs and notes
-Splunk dashboards and exercises
-Tools and resources I’m building or studying
+---
 
-📚 On the horizon:
+### 📝 What you’ll find here
+- Cybersecurity labs and study notes
+- Splunk dashboards and exercises
+- Tools and resources I’m building or exploring
 
-MITRE ATT&CK explorations
-Splunk projects
-SOC analyst workflows
+### 🔭 On the horizon
+- MITRE ATT&CK explorations
+- Splunk projects
+- SOC analyst workflows
 
-🎯 Always Learning:
-I’m committed to continuous improvement and sharing knowledge as I grow.
+### 🌱 Always Learning
+I’m committed to continuous improvement and sharing knowledge as I grow — building not just skillsets, but a signal that cuts through the noise.
 
-🤝 Let’s Connect: [LinkedIn](https://www.linkedin.com/in/nickalos-early-12755135b/)
+---
+
+### 🤝 Let’s Connect
+[LinkedIn](https://www.linkedin.com/in/nickalos-early-12755135b/)
