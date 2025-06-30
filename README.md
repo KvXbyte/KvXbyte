@@ -21,4 +21,4 @@ SOC analyst workflows
 🎯 Always Learning:
 I’m committed to continuous improvement and sharing knowledge as I grow.
 
-🤝 Let’s Connect: [LinkedIn](www.linkedin.com/in/kvxbyte)
+🤝 Let’s Connect: [LinkedIn](https://www.linkedin.com/in/nickalos-early-12755135b/)
