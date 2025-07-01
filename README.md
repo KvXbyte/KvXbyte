@@ -7,7 +7,7 @@
   <img src="https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="100" />
 </a>
 
-Hi, I’m **Nickalos Early** — but here you can call me **KvXbyte**.
+Hi, I’m **Nickalos** — but here you can call me **KvXbyte**.
 
 I’m a cybersecurity professional with a **Security+** certification, currently leveling up through labs, Splunk training, and real-world simulations. I’m passionate about defending systems, analyzing signals, and turning chaos into clarity — one byte at a time.
 
