@@ -34,7 +34,7 @@ I specialize in no-fluff, tactical execution. Whether it's dissecting packets, t
 
 - ✅ CompTIA Security+ (2025)  
 - ✅ Google Cybersecurity Certificate  
-- 🧭 [View my full certification roadmap](certification_roadmap.md)
+- [📌 View my full certification roadmap](certification_roadmap.md)
 
 > Focused on real-world application: analysis > theory. Precision over perfection.
 
